@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">👩‍💻  About Me</h1>
+<h2 align="center">👩‍💻  About Me</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="left">🛠 Language and tools</h1>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
@@ -52,7 +52,9 @@
 
 ###
 
-<p align="left">Contact : 📱</p>
+<br clear="both">
+
+<h2 align="left">Contact : 📱</h2>
 
 ###
 
