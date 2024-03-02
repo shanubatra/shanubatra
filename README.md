@@ -5,6 +5,7 @@
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
+<hr/>
 <p align="left">I'm Sanu Batra <br><br>- 🔭 I’m  a React Js Developer<br>- 📚 I'm currently learning Php | Laravel<br>- ⚡ In my free time I like to do Cycling</p>
 
 ###
