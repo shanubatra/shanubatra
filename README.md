@@ -52,7 +52,7 @@
 
 <br clear="both">
 
-<h2 align="left">Contact : 📱</h2>
+<h2 align="left">📱 Contact :</h2>
 
 ###
 
