@@ -1,8 +1,10 @@
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+<br clear="both">
+
+<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
 
 ###
 
-<h2 align="center">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -10,7 +12,7 @@
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
