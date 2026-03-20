@@ -1,8 +1,4 @@
-
-<img align="right" height="400" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966"  />
-
-###
-
+ 
 <h2 align="left">👩‍💻  About Me</h2>
 <p align="left">I'm Shanu Batra <br><br>- 🔭 I’m  a Full Stack Developer<br>- ⚡ In my free time I like to do Cycling</p>
 
